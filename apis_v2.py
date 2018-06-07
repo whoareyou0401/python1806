@@ -1,1 +1,1 @@
-print("hello kuwo")
+print("kkkk")
